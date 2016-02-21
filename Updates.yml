@@ -1,2 +1,3 @@
 '1_1_4': "CraftBukkit compatibility and bug fixes|Fixed bug where CraftBukkit servers would have the console spammed with errors____Fixed more bugs with language file____Updated MCStats"
 '1_1_5': "Update notifier shows update notes. Fixed double chest bug|The update notifier now shows the update title and notes____Fixed bug where double locked chests could be created with a locked chest and normal chest"
+'1_1_6': "Fixed SEVERE bugs|Fixed SEVERE bug where all blocks would act as locked chests____Fixed being able to add normal chests to locked chests to create a double locked chest"
