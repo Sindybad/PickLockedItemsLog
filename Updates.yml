@@ -2,3 +2,4 @@
 '1_1_5': "Update notifier shows update notes. Fixed double chest bug|The update notifier now shows the update title and notes____Fixed bug where double locked chests could be created with a locked chest and normal chest"
 '1_1_6': "Fixed SEVERE bugs|Fixed SEVERE bug where all blocks would act as locked chests____Fixed being able to add normal chests to locked chests to create a double locked chest"
 '1_1_7': "Removed messy code|Removed messy code"
+'1_1_8': "Fixed bug with normal double chests|Fixed bug where normal double chests could not be placed"
