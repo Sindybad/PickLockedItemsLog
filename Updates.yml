@@ -3,3 +3,4 @@
 '1_1_6': "Fixed SEVERE bugs|Fixed SEVERE bug where all blocks would act as locked chests____Fixed being able to add normal chests to locked chests to create a double locked chest"
 '1_1_7': "Removed messy code|Removed messy code"
 '1_1_8': "Fixed bug with normal double chests|Fixed bug where normal double chests could not be placed"
+'1_1_9': "Fixed bug with double locked chests and survival|Fixed bug where the secondary half of a locked chest would not drop in survival mode"
