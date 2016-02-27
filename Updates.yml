@@ -4,4 +4,4 @@
 '1_1_7': "Removed messy code|Removed messy code"
 '1_1_8': "Fixed bug with normal double chests|Fixed bug where normal double chests could not be placed"
 '1_1_9': "Fixed bug with double locked chests and survival|Fixed bug where the secondary half of a locked chest would not drop in survival mode"
-'1_2_0': "Added key rings/holders. These can store multiple keys in one item. See Keys and Key Rings for more info____Make sure to add the key rings options from the Config(on the plugin page) to your config.yml or the plugin will not work!____The following permissions have been added:__lockeditems.craft.keyring__lockeditems.keyring.open__lockeditems.cmd.giveKeyRing__lockeditems.cmd.giveKeyRing.others"
+'1_2_0': "Added key rings/holders. These can store multiple keys in one item. See Keys and Key Rings for more info____Make sure to add the key rings options from the Config(on the plugin page) to your config.yml or the plugin will not work!____The following permissions have been added:__lockeditems¬craft¬keyring__lockeditems¬keyring¬open__lockeditems¬cmd¬giveKeyRing__lockeditems¬cmd¬giveKeyRing¬others"
