@@ -7,3 +7,5 @@
 '1_2_0': "Important update, Key rings/holders have been added|Added key rings/holders. These can store multiple keys in one item. See Keys and Key Rings for more info____Make sure to add the key rings options from the Config(on the plugin page) to your config.yml or the plugin will not work!____The following permissions have been added:__lockeditems^craft^keyring__lockeditems^keyring^open__lockeditems^cmd^giveKeyRing__lockeditems^cmd^giveKeyRing^others"
 '1_2_1': "Fixed bug with key rings|Fixed bug where opening a stack of key rings would delete the extra keyrings"
 '1_3_0': "1.9 Update|Updated plugin to 1.9 and fixed bugs due to off hand feature__Caution, 1.9 will most likely contain bugs for Pick Locked Items. Please PM me or say in the discuss if you find any bugs "
+'1_3_1': "Recompiled for latest 1.9|Re-compiled for the latest 1.9"
+'1_3_2': "Removed debug messages|Removed hand1 hand2 etc from spamming console"
