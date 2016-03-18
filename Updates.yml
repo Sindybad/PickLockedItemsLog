@@ -10,3 +10,4 @@
 '1_3_1': "Recompiled for latest 1.9|Re-compiled for the latest 1.9"
 '1_3_2': "Removed debug messages|Removed hand1 hand2 etc from spamming console"
 '1_3_3': "Recompiled for latest 1.9|Recompiled for the latest 1.9"
+'1_3_4': "Fixed potential errors|Fixed potential errors that spam the console"
