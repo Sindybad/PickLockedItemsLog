@@ -11,3 +11,4 @@
 '1_3_2': "Removed debug messages|Removed hand1 hand2 etc from spamming console"
 '1_3_3': "Recompiled for latest 1.9|Recompiled for the latest 1.9"
 '1_3_4': "Fixed potential errors|Fixed potential errors that spam the console"
+'1_4_0': "MEGA HUGE UPDATE: DOORS!!!|DOORS ARE HERE!__Locked Doors operate similarly to locked chests. You can craft them, use keys/lockpicks, add traps and create new keys, etc.____As usual, you will need to add the following to your config.yml if you are upgrading(Or delete your config.yml to get a new one__(See plugin page)____There are many new permission nodes, including lockeditems^recommended____Also be sure to view your text^yml as there are a lot of new messages you may want to configure."
