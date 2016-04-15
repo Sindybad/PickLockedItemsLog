@@ -18,3 +18,4 @@
 '1_4_4': "You can change data of crafting ingredients & configure master keys breaking|Added a master keys option to be one-time use(add ^breakMasterKeyOnUse- true/false^ to your config.yml)____Added option to change the data/damage value of crafting ingredients____Lots of code clean up"
 '1_4_5': "Fixed bug where you couldn^t create keys for doors|Fixed bug where you couldn^t create keys for doors (permission error)"
 '1_4_6': "Fixed bug where lockeditems.recommended didn^t contain correct permissions|Fixed bug where ^lockeditems.recommended^ didn^t contain ^lockeditems.lockedchest.createKeyOthersChest^ permission node"
+'1_4_7': "New plugins^PickLockedItems^data folder|Moved all data files to plugins^PickLockedItems^data,  these files typically shouldn't be modified____You don^t need to edit any files before updating"
