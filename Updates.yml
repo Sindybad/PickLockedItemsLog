@@ -20,3 +20,4 @@
 '1_4_6': "Fixed bug where lockeditems.recommended didn^t contain correct permissions|Fixed bug where ^lockeditems.recommended^ didn^t contain ^lockeditems.lockedchest.createKeyOthersChest^ permission node"
 '1_4_7': "New plugins^PickLockedItems^data folder|Moved all data files to plugins^PickLockedItems^data,  these files typically shouldn't be modified____You don^t need to edit any files before updating"
 '1_4_8': "Fixed bugs with protection plugins|Fixed bug where lock, trap slot and key would be dropped if you tried to place a chest/door in a protected region"
+'1_4_9': "IMPORTANT BUG FIX can place without permissions|Fixed very important bug where you could place doors/chests without permissions____Protection plugins should also work more efficiently with locked chests/doors____Update as soon as possible!"
