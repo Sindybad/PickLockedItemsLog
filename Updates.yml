@@ -24,3 +24,4 @@
 '1_4_11': "New permissions for picking|Added permissions that block you from creating keys after you have picked into a chest or door. See update page for the list.____Also, a bug where you could break locked doors in protected regions has been fixed"
 '1_4_12': "All door types can be crafted|All locked door types can now be crafted by using the desired wood type in the recipe__No changes to your config need to be made if upgrading from 1.4.11"
 '1_4_13': "MC 1.9.4 support|Added support for Minecraft 1.9.4____PickLockedItems 1.4.13+ should now work with future versions of Minecraft without the need to update the plugin"
+'1_4_14': "Fixed potential crash|Fixed potential crash with the updater"
