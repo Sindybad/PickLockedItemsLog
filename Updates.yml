@@ -25,3 +25,4 @@
 '1_4_12': "All door types can be crafted|All locked door types can now be crafted by using the desired wood type in the recipe__No changes to your config need to be made if upgrading from 1.4.11"
 '1_4_13': "MC 1.9.4 support|Added support for Minecraft 1.9.4____PickLockedItems 1.4.13+ should now work with future versions of Minecraft without the need to update the plugin"
 '1_4_14': "Fixed potential crash|Fixed potential crash with the updater"
+'1_4_15': "Unbreakable tag on items|The lockpick, key, keyring and traps can now be set to have an unbreakable tag. This is designed to be used in resource packs where individual textures have been assigned to a damage value.____See Config on plugin page for how to configure it__"
