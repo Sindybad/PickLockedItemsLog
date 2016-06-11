@@ -28,3 +28,4 @@
 '1_4_15': "Unbreakable tag on items|The lockpick, key, keyring and traps can now be set to have an unbreakable tag. This is designed to be used in resource packs where individual textures have been assigned to a damage value.____See Config on plugin page for how to configure it"
 '1_4_16': "More fixes|Fixed more potential bugs that may crash the server"
 '1_4_17': "Code cleanup|Removed a lot of commented code"
+'1_5_0': "1.10 compatibility|Added Minecraft 1.10 compatibility__Older versions of PickLockedItems should already work with 1.10, but this update is recommended just in case."
