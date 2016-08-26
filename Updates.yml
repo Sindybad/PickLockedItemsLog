@@ -37,3 +37,4 @@
 '1_6_2': "Configurable item names|You can now configure the name of items(e.g. chests/keys) using the file itemTexts.yml in the PickLockedItems plugin folder____Restart your server to generate the file"
 '1_6_3': "Console spamming bug fix|Fixed bug where a minecart chest trying to leak items into a double locked chest would spam the console with errors"
 '1_6_4': "Fixed item names not applying|Fixed bug where names defined in itemTexts.yml would not apply to recipes"
+'1_6_5': "Error bug fix|Fixed bug where the console would generate an error whenever custom items with lore were interacted with"
