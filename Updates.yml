@@ -41,3 +41,4 @@
 '1_6_6': "Error bug fix|Fixed bug where the console would generate an error whenever custom items with lore were interacted with__Also removed debug message"
 '1_6_7': "Bug fix|Fixed bug where the plugin could crash on launch"
 '1_6_8': "Removed debug messages|Removed debug messages"
+'1_6_9': "Important bug fix for future users|Fixed bug where, on the first server start after installing PickLockedItems, you would see sturdy locked chests inside of all crafting tables, amongst other strange issues."
