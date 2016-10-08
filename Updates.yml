@@ -45,3 +45,4 @@
 '1_6_10': "Fixed bug with text file|Fixed bug where an empty chat line would be created if you set any field to blank in the text.yml file"
 '1_6_11': "Modified config.yml comments|Changed the comments in the config.yml to be more helpful"
 '1_7_0': "Notify players when their locked items have been picked into|Added permission lockeditems.notifypick that will notify you in the chat when someone breaks into one of your locked items"
+'1_7_1': "Fixed bug with double chests and lockpicks|Fixed bug where you could not create lockpicks for double locked chests facing a certain direction"
