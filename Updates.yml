@@ -47,3 +47,4 @@
 '1_7_0': "Notify players when their locked items have been picked into|Added permission lockeditems.notifypick that will notify you in the chat when someone breaks into one of your locked items"
 '1_7_1': "Fixed bug with double chests and lockpicks|Fixed bug where you could not create lockpicks for double locked chests facing a certain direction"
 '1_7_2': "Removed unused functions|Code cleanup"
+'1_7_3': "Fixed crash|Fixed a bug where the plugin would crash if you deleted a world containing locked chests or doors"
