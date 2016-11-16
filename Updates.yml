@@ -48,3 +48,4 @@
 '1_7_1': "Fixed bug with double chests and lockpicks|Fixed bug where you could not create lockpicks for double locked chests facing a certain direction"
 '1_7_2': "Removed unused functions|Code cleanup"
 '1_7_3': "Fixed crash|Fixed a bug where the plugin would crash if you deleted a world containing locked chests or doors"
+'1_8_0': "Auto backup|PickLockedItems will now automatically create a backup of your data every time you shutdown your server"
