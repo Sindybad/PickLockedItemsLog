@@ -51,3 +51,4 @@
 '1_8_0': "Auto backup|PickLockedItems will now automatically create a backup of your data every time you shutdown your server"
 '1_9_0': "Updated to Minecraft 1.11, Configure lockpicking gui|Updated to Minecraft 1.11 (if you see any bugs, please let me know)____Added config.yml options to configure the items, names, damage values of the lockpicking gui__Before updating, check the plugin page for what you MUST add to your config.yml"
 '1_9_1': "Updated to latest Minecraft|Updated to the latest version of minecraft 1.11"
+'1_9_2': "Updated to 1.11.2|Updated to Minecraft 1.11.2 and code cleanup"
