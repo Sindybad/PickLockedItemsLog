@@ -1,1 +1,2 @@
 '1_9_6': "Fixed bug|Fixed bug where the plugin may cause errors on server startup"
+'1_9_7': "Fixed bug with Multiverse|Fixed bug where Mutliverse would load after PickLockedItems, so PickLockedItems would not be able to access Multiverse worlds"
