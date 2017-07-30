@@ -4,3 +4,4 @@
 '1_9_9': "Better config comments|Modified comments to explain the config better____Updated to the latest Spigot 1.11.2"
 '1_9_10': "Updated to bStats|Replaced mcstats with bStats"
 '1_10_0': "Updated to 1.12|Updated to Minecraft/Spigot 1.12"
+'1_10_1': "Exploit fix|Updated the the latest Spigot version__Updated the Vault API version__Fixed potential exploit that could allow players to glitch through a locked door"
