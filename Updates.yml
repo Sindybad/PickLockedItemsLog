@@ -7,3 +7,4 @@
 '1_10_1': "Exploit fix|Updated the the latest Spigot version__Updated the Vault API version__Fixed potential exploit that could allow players to glitch through a locked door"
 '1_10_2': "Removed deprecated methods|Updated to the latest Spigot version__Removed deprecated methods"
 '1_10_3': "Updated APIs|Updated Spigot and Vault API version"
+'1_11_0': "Updated integer item IDs to Materials|CRITICAL UPDATE__Please refer to the plugin page on Spigot for instructions on how to update"
