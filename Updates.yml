@@ -9,3 +9,4 @@
 '1_10_3': "Updated APIs|Updated Spigot and Vault API version"
 '1_11_0': "Updated integer item IDs to Materials|CRITICAL UPDATE__Please refer to the plugin page on Spigot for instructions on how to update"
 '1_11_1': "Removed unused command|Removed unused command that could be exploited to cause lag__Updated Spigot API version"
+'1_11_2': "Fixed potential crash on Spigot 1.13|Fixed potential crash on Spigot 1.13 when using the convertConfigBlockIds command"
