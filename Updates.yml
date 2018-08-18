@@ -1,4 +1,1 @@
-'1_11_3': "Fixed updater|Fixed updater not displaying updates"
-'1_11_4': "Removed deprecated methods|Removed some deprecated methods to prevent error spam"
-'1_11_5': "Revamped chest and door limits|Please see the plugin page for what to add to your config.yml and how to set up permissions"
-'1_11_6': "Fixed errors failing silently|Fixed errors not displaying correctly"
+'1_11_7': "Restructured config|Restructured some parts of the config.yml since it was messy"
